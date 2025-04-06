@@ -1,0 +1,2 @@
+# PowerShellTypeAdapter
+PSPropertyAdapter implementation for PowerShell
