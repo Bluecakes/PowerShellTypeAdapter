@@ -1,0 +1,8 @@
+<Types>
+  <Type>
+    <Name>PowerShellTypeAdapter.Favorite</Name>
+    <TypeAdapter>
+      <TypeName>PowerShellTypeAdapter.FavoriteAdapter</TypeName>
+    </TypeAdapter>
+  </Type>
+</Types>
